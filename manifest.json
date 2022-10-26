@@ -1,0 +1,17 @@
+{
+    "name": "musica",
+    "short_name": "mi musica ",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./music.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512"
+        }
+    ]
+}
